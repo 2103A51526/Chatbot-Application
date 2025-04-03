@@ -1,0 +1,144 @@
+{
+    "hi": [
+        "How can I help you?",
+        "Hello! What can I do for you today?"
+    ],
+    "tell name": [
+        "Salim",
+        "Your name is Salim."
+    ],
+    "capital india": [
+        "Delhi",
+        "The capital of India is Delhi."
+    ],
+    "pm india": [
+        "Modi",
+        "The Prime Minister of India is Modi."
+    ],
+    "tell college name": [
+        "SR University",
+        "I study at SR University."
+    ],
+    "python": [
+        "It is a high-level programming language.",
+        "Python is known for its simplicity."
+    ],
+    "cm telangana": [
+        "Revanth Reddy"
+    ],
+    "birthday": [
+        "29th September"
+    ],
+    "capital france": [
+        "The capital of France is Paris."
+    ],
+    "prime minister india": [
+        "Modi"
+    ],
+    "mother": [
+        "Rafija"
+    ],
+    "telangana capital": [
+        "hyderabad"
+    ],
+    "capital west bengal": [
+        "Kolkata"
+    ],
+    "president u": [
+        "Joe Bieden"
+    ],
+    "pesident usa": [
+        "Joe Bieden"
+    ],
+    "owner sr university": [
+        "varda reddy"
+    ],
+    "know sr university": [
+        "Yes! It is located at Warangal, Telangana"
+    ],
+    "owner tesla": [
+        "elon mask"
+    ],
+    "pm china": [
+        "Xiemping"
+    ],
+    "": [
+        "Salim"
+    ],
+    "cm andra pradesh": [
+        "naidu"
+    ],
+    "id cm uttar pradesh": [
+        "Yogi Adityanath"
+    ],
+    "cm up": [
+        "Yogi Adityanath"
+    ],
+    "cm tamil nadu": [
+        "Stalin",
+        "Stalin",
+        "Stalin"
+    ],
+    "cm tamil": [
+        "stalin"
+    ],
+    "cm bihar": [
+        "nithish kumar",
+        "nithish kumar",
+        "nithish kumar"
+    ],
+    "cm delhi": [
+        "Arvind kejriwal"
+    ],
+    "cm wb": [
+        "Mamata Banarjee"
+    ],
+    "father name": [
+        "Sikaruddin Sk"
+    ],
+    "gf": [
+        "Saifa"
+    ],
+    "president russia": [
+        "Putin"
+    ],
+    "tell president russia": [
+        "Putin"
+    ],
+    "home minister india": [
+        "Amit Shah"
+    ],
+    "dsa": [
+        "DSA stands for **Data Structures and Algorithms**. It's a fundamental concept in computer science and programming, focusing on organizing, managing, and storing data efficiently.",
+        "- **Data Structures**: Tools to store and organize data (e.g., arrays, linked lists, stacks, queues, trees, graphs).",
+        "- **Algorithms**: Step-by-step procedures or formulas for solving problems (e.g., sorting, searching, graph traversal).",
+        "Together, DSA is used to solve computational problems efficiently and forms the backbone of programming and software development. Learning DSA helps in understanding how to write optimized code for various applications."
+    ],
+    "telangana cm": [
+        "Revant Reddy"
+    ],
+    "salim": [
+        "Salim is a developer who has developed me!"
+    ],
+    "capital bihar": [
+        "patna"
+    ],
+    "barsha": [
+        "Hi Salim! Barsha is you first \u2764 "
+    ],
+    "sr university": [
+        "Sri Rajeshwara Educational Society, the parent body of SR University is a 45-year-old conglomerate of educational institutions with more than 90,000 students and 10,000 teaching and non-teaching staff members."
+    ],
+    "cm jharkhand": [
+        "cm of jharkhand is hemat soren"
+    ],
+    "list top 10 temple name": [
+        "1. Tirupati 2.Konark 3. Puri"
+    ],
+    "capital america": [
+        "washington D.C"
+    ],
+    "reviewer capstone project": [
+        "DR. Venkatesh sir"
+    ]
+}

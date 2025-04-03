@@ -1,0 +1,100 @@
+
+#input-container {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.input-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+#user-input {
+    width: 100%;
+    padding: 10px 40px 10px 15px; /* Adjust padding to make space for the mic */
+    border-radius: 20px;
+    border: 1px solid #ccc;
+}
+
+#micButton {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#micIcon {
+    width: 20px;
+    height: 20px;
+    fill: #007bff;
+    transition: fill 0.3s;
+}
+
+#sendButton {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 10px;
+    transition: background-color 0.3s;
+}
+
+#sendButton:hover {
+    background-color: #0056b3;
+}
+
+#micButton.recording #micIcon {
+    fill: #ff3b30;
+}
+    
+
+#typing-indicator {
+    display: none; /* Initially hidden */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+    height: 20px; /* Fixed height */
+}
+
+/* You can use a simple loader or dot animation here */
+#typing-indicator::after {
+    content: '';
+    width: 10px;
+    height: 10px;
+    background-color: #666; /* Change color as needed */
+    border-radius: 50%; /* Makes it a circle */
+    animation: bounce 0.6s infinite alternate;
+}
+
+@keyframes bounce {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
+}
+
+.chatbot-message {
+    background-color: #e6f7ff;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    text-align: left;
+    position: relative;
+}
+
+.sound-icon {
+    cursor: pointer;
+    margin-top: 5px;
+    font-size: 1.5em; /* Make the icon larger for visibility */
+    color: #007bff; /* Make the icon color distinct */
+    display: inline-block;
+}

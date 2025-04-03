@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Aarav Sharma",
+        "roll_no": "101",
+        "cgpa": 3.6,
+        "mobile_number": "9876543210"
+    },
+    {
+        "name": "Vivaan Gupta",
+        "roll_no": "102",
+        "cgpa": 3.7,
+        "mobile_number": "8765432109"
+    },
+    {
+        "name": "Aditya Rao",
+        "roll_no": "103",
+        "cgpa": 3.5,
+        "mobile_number": "7654321098"
+    },
+    {
+        "name": "Sai Patel",
+        "roll_no": "104",
+        "cgpa": 3.9,
+        "mobile_number": "6543210987"
+    },
+    {
+        "name": "Reyansh Verma",
+        "roll_no": "105",
+        "cgpa": 3.8,
+        "mobile_number": "5432109876"
+    },
+    {
+        "name": "Lakshya Singh",
+        "roll_no": "106",
+        "cgpa": 3.6,
+        "mobile_number": "4321098765"
+    },
+    {
+        "name": "Ayaan Joshi",
+        "roll_no": "107",
+        "cgpa": 3.7,
+        "mobile_number": "3210987654"
+    },
+    {
+        "name": "Arjun Nair",
+        "roll_no": "108",
+        "cgpa": 3.5,
+        "mobile_number": "2109876543"
+    },
+    {
+        "name": "Karan Bhatia",
+        "roll_no": "109",
+        "cgpa": 3.8,
+        "mobile_number": "1098765432"
+    },
+    {
+        "name": "Rohan Mehta",
+        "roll_no": "110",
+        "cgpa": 3.9,
+        "mobile_number": "0987654321"
+    },
+    {
+        "name": "Saanvi Desai",
+        "roll_no": "111",
+        "cgpa": 3.4,
+        "mobile_number": "9876543210"
+    },
+    {
+        "name": "Diya Kapoor",
+        "roll_no": "112",
+        "cgpa": 3.6,
+        "mobile_number": "8765432109"
+    },
+    {
+        "name": "Ananya Verma",
+        "roll_no": "113",
+        "cgpa": 3.7,
+        "mobile_number": "7654321098"
+    },
+    {
+        "name": "Tanvi Reddy",
+        "roll_no": "114",
+        "cgpa": 3.5,
+        "mobile_number": "6543210987"
+    },
+    {
+        "name": "Ishaan Agarwal",
+        "roll_no": "115",
+        "cgpa": 3.8,
+        "mobile_number": "5432109876"
+    },
+    {
+        "name": "Krishna Choudhury",
+        "roll_no": "116",
+        "cgpa": 3.6,
+        "mobile_number": "4321098765"
+    },
+    {
+        "name": "Pooja Yadav",
+        "roll_no": "117",
+        "cgpa": 3.7,
+        "mobile_number": "3210987654"
+    },
+    {
+        "name": "Sneha Dutta",
+        "roll_no": "118",
+        "cgpa": 3.5,
+        "mobile_number": "2109876543"
+    },
+    {
+        "name": "Manav Sharma",
+        "roll_no": "119",
+        "cgpa": 3.9,
+        "mobile_number": "1098765432"
+    },
+    {
+        "name": "Navya Iyer",
+        "roll_no": "120",
+        "cgpa": 3.4,
+        "mobile_number": "0987654321"
+    },
+    {
+        "name": "Neel Patel",
+        "roll_no": "121",
+        "cgpa": 3.6,
+        "mobile_number": "9876543210"
+    },
+    {
+        "name": "Riya Sethi",
+        "roll_no": "122",
+        "cgpa": 3.7,
+        "mobile_number": "8765432109"
+    },
+    {
+        "name": "Arnav Saxena",
+        "roll_no": "123",
+        "cgpa": 3.5,
+        "mobile_number": "7654321098"
+    },
+    {
+        "name": "Kavya Deshmukh",
+        "roll_no": "124",
+        "cgpa": 3.8,
+        "mobile_number": "6543210987"
+    },
+    {
+        "name": "Shivansh Khanna",
+        "roll_no": "125",
+        "cgpa": 3.9,
+        "mobile_number": "5432109876"
+    },
+    {
+        "name": "Bhavya Jain",
+        "roll_no": "126",
+        "cgpa": 3.6,
+        "mobile_number": "4321098765"
+    },
+    {
+        "name": "Harsh Gupta",
+        "roll_no": "127",
+        "cgpa": 3.7,
+        "mobile_number": "3210987654"
+    },
+    {
+        "name": "Pari Sen",
+        "roll_no": "128",
+        "cgpa": 3.5,
+        "mobile_number": "2109876543"
+    },
+    {
+        "name": "Vansh Bhardwaj",
+        "roll_no": "129",
+        "cgpa": 3.9,
+        "mobile_number": "1098765432"
+    },
+    {
+        "name": "Riddhi Mehta",
+        "roll_no": "130",
+        "cgpa": 3.4,
+        "mobile_number": "0987654321"
+    },
+    {
+        "name": "Siddharth Ghosh",
+        "roll_no": "131",
+        "cgpa": 3.6,
+        "mobile_number": "9876543210"
+    },
+    {
+        "name": "Simran Nanda",
+        "roll_no": "132",
+        "cgpa": 3.7,
+        "mobile_number": "8765432109"
+    },
+    {
+        "name": "Esha Tiwari",
+        "roll_no": "133",
+        "cgpa": 3.5,
+        "mobile_number": "7654321098"
+    },
+    {
+        "name": "Kunal Rathi",
+        "roll_no": "134",
+        "cgpa": 3.8,
+        "mobile_number": "6543210987"
+    },
+    {
+        "name": "Prisha Sharma",
+        "roll_no": "135",
+        "cgpa": 3.9,
+        "mobile_number": "5432109876"
+    },
+    {
+        "name": "Om Prakash",
+        "roll_no": "136",
+        "cgpa": 3.6,
+        "mobile_number": "4321098765"
+    },
+    {
+        "name": "Akriti Sharma",
+        "roll_no": "137",
+        "cgpa": 3.7,
+        "mobile_number": "3210987654"
+    },
+    {
+        "name": "Rishabh Kumar",
+        "roll_no": "138",
+        "cgpa": 3.5,
+        "mobile_number": "2109876543"
+    },
+    {
+        "name": "Tanushree Bansal",
+        "roll_no": "139",
+        "cgpa": 3.9,
+        "mobile_number": "1098765432"
+    },
+    {
+        "name": "Rohan Joshi",
+        "roll_no": "140",
+        "cgpa": 3.4,
+        "mobile_number": "0987654321"
+    },
+    {
+        "name": "Swara Nair",
+        "roll_no": "141",
+        "cgpa": 3.6,
+        "mobile_number": "9876543210"
+    },
+    {
+        "name": "Shivani Malik",
+        "roll_no": "142",
+        "cgpa": 3.7,
+        "mobile_number": "8765432109"
+    },
+    {
+        "name": "Siddhi Sharma",
+        "roll_no": "143",
+        "cgpa": 3.5,
+        "mobile_number": "7654321098"
+    },
+    {
+        "name": "Neha Agarwal",
+        "roll_no": "144",
+        "cgpa": 3.8,
+        "mobile_number": "6543210987"
+    },
+    {
+        "name": "Vikrant Singh",
+        "roll_no": "145",
+        "cgpa": 3.9,
+        "mobile_number": "5432109876"
+    },
+    {
+        "name": "Disha Patil",
+        "roll_no": "146",
+        "cgpa": 3.6,
+        "mobile_number": "4321098765"
+    },
+    {
+        "name": "Tanish Sharma",
+        "roll_no": "147",
+        "cgpa": 3.7,
+        "mobile_number": "3210987654"
+    },
+    {
+        "name": "Chaitanya Rao",
+        "roll_no": "148",
+        "cgpa": 3.5,
+        "mobile_number": "2109876543"
+    },
+    {
+        "name": "Lavanya Jain",
+        "roll_no": "149",
+        "cgpa": 3.9,
+        "mobile_number": "1098765432"
+    },
+    {
+        "name": "Anshika Iyer",
+        "roll_no": "150",
+        "cgpa": 3.4,
+        "mobile_number": "0987654321"
+    }
+]

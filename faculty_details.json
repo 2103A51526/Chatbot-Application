@@ -1,0 +1,902 @@
+[
+    {
+        "Name": "Cameron Young",
+        "Department": "Environmental Engineering",
+        "Designation": "Associate Professor",
+        "Email": "james88@smith-benton.biz",
+        "Phone Number": "959.661.7222x401",
+        "Office Number": "Room 293",
+        "Research Interests": "Machine onto field check lay."
+    },
+    {
+        "Name": "Julie Farmer",
+        "Department": "Electrical Engineering",
+        "Designation": "Associate Professor",
+        "Email": "ybean@gmail.com",
+        "Phone Number": "001-533-009-6660x201",
+        "Office Number": "Room 496",
+        "Research Interests": "Sure personal skin."
+    },
+    {
+        "Name": "Sarah Hernandez",
+        "Department": "Electrical Engineering",
+        "Designation": "Professor",
+        "Email": "robert27@gmail.com",
+        "Phone Number": "(792)940-0759x5413",
+        "Office Number": "Room 557",
+        "Research Interests": "Seem sing pass close computer moment today."
+    },
+    {
+        "Name": "Terry Lee",
+        "Department": "Mechanical Engineering",
+        "Designation": "Associate Professor",
+        "Email": "maycheryl@hotmail.com",
+        "Phone Number": "957-107-3781x3464",
+        "Office Number": "Room 431",
+        "Research Interests": "Be around anyone town."
+    },
+    {
+        "Name": "Valerie Chapman",
+        "Department": "Environmental Engineering",
+        "Designation": "Professor",
+        "Email": "zjackson@hotmail.com",
+        "Phone Number": "026.320.1479",
+        "Office Number": "Room 368",
+        "Research Interests": "Word would successful collection his feel."
+    },
+    {
+        "Name": "Steven Herrera",
+        "Department": "Computer Science",
+        "Designation": "Lecturer",
+        "Email": "elijah08@gmail.com",
+        "Phone Number": "4324595990",
+        "Office Number": "Room 510",
+        "Research Interests": "Instead feeling occur trade country against avoid."
+    },
+    {
+        "Name": "Gary Harvey",
+        "Department": "Electrical Engineering",
+        "Designation": "Associate Professor",
+        "Email": "irwinjose@weaver-hernandez.net",
+        "Phone Number": "+1-010-542-6601x869",
+        "Office Number": "Room 119",
+        "Research Interests": "Effect represent single hit."
+    },
+    {
+        "Name": "Alice Norton",
+        "Department": "Mechanical Engineering",
+        "Designation": "Professor",
+        "Email": "yclark@gmail.com",
+        "Phone Number": "+1-858-133-3833x3474",
+        "Office Number": "Room 537",
+        "Research Interests": "International affect suffer mother put oil."
+    },
+    {
+        "Name": "Alison Ball",
+        "Department": "Mechanical Engineering",
+        "Designation": "Professor",
+        "Email": "nguyenchristopher@yahoo.com",
+        "Phone Number": "194.405.1021x986",
+        "Office Number": "Room 380",
+        "Research Interests": "Without edge wish within."
+    },
+    {
+        "Name": "Rebecca Reese",
+        "Department": "Chemical Engineering",
+        "Designation": "Associate Professor",
+        "Email": "bharrison@houston-rios.com",
+        "Phone Number": "+1-436-086-0527x130",
+        "Office Number": "Room 219",
+        "Research Interests": "Color picture source glass peace attorney note federal."
+    },
+    {
+        "Name": "Jennifer Andrews",
+        "Department": "Aerospace Engineering",
+        "Designation": "Researcher",
+        "Email": "mooreyvonne@guerra.com",
+        "Phone Number": "932.632.1688",
+        "Office Number": "Room 444",
+        "Research Interests": "Common book out entire."
+    },
+    {
+        "Name": "Jessica Benjamin",
+        "Department": "Environmental Engineering",
+        "Designation": "Assistant Professor",
+        "Email": "marissajensen@kent.com",
+        "Phone Number": "878.170.8076x50328",
+        "Office Number": "Room 562",
+        "Research Interests": "Movie long per staff assume general change bank."
+    },
+    {
+        "Name": "Christopher Fischer",
+        "Department": "Chemical Engineering",
+        "Designation": "Associate Professor",
+        "Email": "udavis@yahoo.com",
+        "Phone Number": "(502)825-8201",
+        "Office Number": "Room 162",
+        "Research Interests": "There collection small food leg professional own."
+    },
+    {
+        "Name": "Yolanda Hill",
+        "Department": "Mechanical Engineering",
+        "Designation": "Researcher",
+        "Email": "gregorywebb@lloyd-harrington.com",
+        "Phone Number": "001-406-679-5946",
+        "Office Number": "Room 262",
+        "Research Interests": "Ago north begin sit."
+    },
+    {
+        "Name": "Kiara Becker",
+        "Department": "Civil Engineering",
+        "Designation": "Researcher",
+        "Email": "marissa67@yahoo.com",
+        "Phone Number": "(671)905-4777x114",
+        "Office Number": "Room 546",
+        "Research Interests": "Between that effort join reason bring business."
+    },
+    {
+        "Name": "John Davenport",
+        "Department": "Biomedical Engineering",
+        "Designation": "Assistant Professor",
+        "Email": "heather54@gmail.com",
+        "Phone Number": "326.258.8595",
+        "Office Number": "Room 355",
+        "Research Interests": "Modern method enter across garden."
+    },
+    {
+        "Name": "Dwayne Williams",
+        "Department": "Aerospace Engineering",
+        "Designation": "Lecturer",
+        "Email": "wrightemma@hotmail.com",
+        "Phone Number": "684-241-6337",
+        "Office Number": "Room 484",
+        "Research Interests": "Will skill protect citizen."
+    },
+    {
+        "Name": "William Robbins",
+        "Department": "Biomedical Engineering",
+        "Designation": "Professor",
+        "Email": "johnsawyer@gmail.com",
+        "Phone Number": "+1-420-708-5642",
+        "Office Number": "Room 217",
+        "Research Interests": "Television able drive officer."
+    },
+    {
+        "Name": "Louis Smith Jr.",
+        "Department": "Computer Science",
+        "Designation": "Researcher",
+        "Email": "lori50@ramirez.com",
+        "Phone Number": "+1-289-122-2905x9360",
+        "Office Number": "Room 305",
+        "Research Interests": "Watch avoid for yes area significant."
+    },
+    {
+        "Name": "Linda Peters",
+        "Department": "Electrical Engineering",
+        "Designation": "Assistant Professor",
+        "Email": "christopher76@hotmail.com",
+        "Phone Number": "(861)688-2864x729",
+        "Office Number": "Room 491",
+        "Research Interests": "Science word we home hair woman."
+    },
+    {
+        "Name": "Chase Tucker",
+        "Department": "Computer Science",
+        "Designation": "Assistant Professor",
+        "Email": "rbradshaw@hotmail.com",
+        "Phone Number": "+1-161-647-6107x204",
+        "Office Number": "Room 511",
+        "Research Interests": "Amount thank red to necessary."
+    },
+    {
+        "Name": "Julia Barker",
+        "Department": "Chemical Engineering",
+        "Designation": "Associate Professor",
+        "Email": "caleb49@yahoo.com",
+        "Phone Number": "030.940.6600",
+        "Office Number": "Room 166",
+        "Research Interests": "Effort imagine always support experience common remain."
+    },
+    {
+        "Name": "Amy Leon",
+        "Department": "Environmental Engineering",
+        "Designation": "Lecturer",
+        "Email": "michaelramirez@baker.info",
+        "Phone Number": "+1-838-581-4053x670",
+        "Office Number": "Room 492",
+        "Research Interests": "Direction reality audience knowledge feel issue."
+    },
+    {
+        "Name": "David Spence",
+        "Department": "Environmental Engineering",
+        "Designation": "Associate Professor",
+        "Email": "xchurch@curtis.com",
+        "Phone Number": "001-843-038-0353",
+        "Office Number": "Room 592",
+        "Research Interests": "Story stock everything conference."
+    },
+    {
+        "Name": "Donna Green",
+        "Department": "Biomedical Engineering",
+        "Designation": "Lecturer",
+        "Email": "charlesmccarthy@smith-white.com",
+        "Phone Number": "(811)684-0470x20438",
+        "Office Number": "Room 594",
+        "Research Interests": "Program area finish fund."
+    },
+    {
+        "Name": "Jennifer Bryant",
+        "Department": "Environmental Engineering",
+        "Designation": "Assistant Professor",
+        "Email": "peter41@yahoo.com",
+        "Phone Number": "912.443.5976x540",
+        "Office Number": "Room 140",
+        "Research Interests": "Enter shake from detail approach garden apply."
+    },
+    {
+        "Name": "Valerie Faulkner",
+        "Department": "Environmental Engineering",
+        "Designation": "Lecturer",
+        "Email": "vkrueger@hotmail.com",
+        "Phone Number": "216-493-8256x572",
+        "Office Number": "Room 184",
+        "Research Interests": "Expert fall away enjoy meet our those."
+    },
+    {
+        "Name": "Chad Brown",
+        "Department": "Computer Science",
+        "Designation": "Researcher",
+        "Email": "murrayethan@taylor-lewis.net",
+        "Phone Number": "640.423.4957x6814",
+        "Office Number": "Room 234",
+        "Research Interests": "Partner one hot yourself upon rule."
+    },
+    {
+        "Name": "Shaun Zimmerman",
+        "Department": "Biomedical Engineering",
+        "Designation": "Professor",
+        "Email": "zlong@yahoo.com",
+        "Phone Number": "(497)407-9242x02396",
+        "Office Number": "Room 405",
+        "Research Interests": "Just house give huge first."
+    },
+    {
+        "Name": "Mark Osborne",
+        "Department": "Electrical Engineering",
+        "Designation": "Professor",
+        "Email": "nicholas69@hotmail.com",
+        "Phone Number": "357-251-0639x02966",
+        "Office Number": "Room 434",
+        "Research Interests": "Treat actually easy responsibility should she behind."
+    },
+    {
+        "Name": "Jill Rivera",
+        "Department": "Civil Engineering",
+        "Designation": "Lecturer",
+        "Email": "wongjacqueline@gmail.com",
+        "Phone Number": "489.769.2047x8322",
+        "Office Number": "Room 351",
+        "Research Interests": "Family alone color law various wonder."
+    },
+    {
+        "Name": "Jennifer Campos",
+        "Department": "Biomedical Engineering",
+        "Designation": "Assistant Professor",
+        "Email": "kthornton@garcia.com",
+        "Phone Number": "098-256-6594",
+        "Office Number": "Room 239",
+        "Research Interests": "Stock political five bit name affect."
+    },
+    {
+        "Name": "Christina Deleon",
+        "Department": "Computer Science",
+        "Designation": "Lecturer",
+        "Email": "kfisher@bell-lee.com",
+        "Phone Number": "(729)657-9256x914",
+        "Office Number": "Room 382",
+        "Research Interests": "Up me direction threat safe."
+    },
+    {
+        "Name": "Dylan Curry",
+        "Department": "Biomedical Engineering",
+        "Designation": "Professor",
+        "Email": "juan84@lang-white.biz",
+        "Phone Number": "+1-602-979-5108",
+        "Office Number": "Room 517",
+        "Research Interests": "Most hot key a peace."
+    },
+    {
+        "Name": "Elijah Jackson",
+        "Department": "Chemical Engineering",
+        "Designation": "Researcher",
+        "Email": "andreaharrell@gmail.com",
+        "Phone Number": "904-960-0713x497",
+        "Office Number": "Room 236",
+        "Research Interests": "Left attention view stay prove trip recently."
+    },
+    {
+        "Name": "Anna Reid",
+        "Department": "Chemical Engineering",
+        "Designation": "Assistant Professor",
+        "Email": "reynoldslori@conner-sutton.org",
+        "Phone Number": "+1-519-627-6954x57291",
+        "Office Number": "Room 316",
+        "Research Interests": "Street fine special tonight wall hair capital."
+    },
+    {
+        "Name": "Lauren Castro",
+        "Department": "Environmental Engineering",
+        "Designation": "Researcher",
+        "Email": "sgreen@yahoo.com",
+        "Phone Number": "415.748.9244",
+        "Office Number": "Room 167",
+        "Research Interests": "Attack long discussion home year old."
+    },
+    {
+        "Name": "Gloria Brown",
+        "Department": "Aerospace Engineering",
+        "Designation": "Lecturer",
+        "Email": "alexandra31@yahoo.com",
+        "Phone Number": "001-593-435-2482x228",
+        "Office Number": "Room 172",
+        "Research Interests": "Board century appear full kid Mrs scientist."
+    },
+    {
+        "Name": "Ronald Miller",
+        "Department": "Chemical Engineering",
+        "Designation": "Associate Professor",
+        "Email": "fergusonadam@gmail.com",
+        "Phone Number": "245-883-7633x070",
+        "Office Number": "Room 422",
+        "Research Interests": "About mouth thought front small."
+    },
+    {
+        "Name": "Susan Brown",
+        "Department": "Environmental Engineering",
+        "Designation": "Assistant Professor",
+        "Email": "andrewcastillo@davis-munoz.com",
+        "Phone Number": "001-288-023-0122",
+        "Office Number": "Room 210",
+        "Research Interests": "Back hour have."
+    },
+    {
+        "Name": "Angela Wright",
+        "Department": "Computer Science",
+        "Designation": "Associate Professor",
+        "Email": "anna46@cooper.biz",
+        "Phone Number": "(975)197-9540x0258",
+        "Office Number": "Room 487",
+        "Research Interests": "Key join professor decision store."
+    },
+    {
+        "Name": "Heather Robertson",
+        "Department": "Aerospace Engineering",
+        "Designation": "Researcher",
+        "Email": "reneescott@gmail.com",
+        "Phone Number": "+1-978-722-7959x2604",
+        "Office Number": "Room 244",
+        "Research Interests": "Walk over training than remember usually."
+    },
+    {
+        "Name": "Lindsay Smith",
+        "Department": "Mechanical Engineering",
+        "Designation": "Lecturer",
+        "Email": "katherinepollard@yahoo.com",
+        "Phone Number": "243-410-1904",
+        "Office Number": "Room 584",
+        "Research Interests": "Blue you fight item news nation work."
+    },
+    {
+        "Name": "David Schmidt",
+        "Department": "Mechanical Engineering",
+        "Designation": "Professor",
+        "Email": "kellie15@gmail.com",
+        "Phone Number": "478-255-7158",
+        "Office Number": "Room 550",
+        "Research Interests": "Continue often defense memory improve pass."
+    },
+    {
+        "Name": "Daniel Meyer",
+        "Department": "Electrical Engineering",
+        "Designation": "Associate Professor",
+        "Email": "belljack@willis.biz",
+        "Phone Number": "+1-514-275-5137x1663",
+        "Office Number": "Room 147",
+        "Research Interests": "Discover father after coach increase."
+    },
+    {
+        "Name": "Terry Alvarado",
+        "Department": "Environmental Engineering",
+        "Designation": "Assistant Professor",
+        "Email": "billycastillo@gmail.com",
+        "Phone Number": "063.200.0405",
+        "Office Number": "Room 329",
+        "Research Interests": "Kitchen position well why."
+    },
+    {
+        "Name": "Jessica Romero",
+        "Department": "Electrical Engineering",
+        "Designation": "Professor",
+        "Email": "garciabrian@king-morris.info",
+        "Phone Number": "+1-018-214-6071x50305",
+        "Office Number": "Room 552",
+        "Research Interests": "Democrat resource idea."
+    },
+    {
+        "Name": "Kenneth Morton",
+        "Department": "Aerospace Engineering",
+        "Designation": "Associate Professor",
+        "Email": "qblack@hotmail.com",
+        "Phone Number": "004.725.2654x46836",
+        "Office Number": "Room 196",
+        "Research Interests": "Three fill act build western analysis now."
+    },
+    {
+        "Name": "Amanda Navarro",
+        "Department": "Mechanical Engineering",
+        "Designation": "Lecturer",
+        "Email": "smullins@hardin.com",
+        "Phone Number": "935-717-3826x127",
+        "Office Number": "Room 282",
+        "Research Interests": "Product entire collection long the social work someone."
+    },
+    {
+        "Name": "Cheyenne Williamson",
+        "Department": "Computer Science",
+        "Designation": "Lecturer",
+        "Email": "thorntonsteve@gmail.com",
+        "Phone Number": "804.426.9949x902",
+        "Office Number": "Room 485",
+        "Research Interests": "Base name debate minute table."
+    },
+    {
+        "Name": "Charles Young",
+        "Department": "Civil Engineering",
+        "Designation": "Researcher",
+        "Email": "jenniferbuchanan@ryan-stephens.com",
+        "Phone Number": "(991)812-5302x122",
+        "Office Number": "Room 222",
+        "Research Interests": "Kind summer some memory appear buy clear."
+    },
+    {
+        "Name": "Tiffany Mills",
+        "Department": "Computer Science",
+        "Designation": "Professor",
+        "Email": "samanthaaguirre@benitez.com",
+        "Phone Number": "534.776.1312",
+        "Office Number": "Room 505",
+        "Research Interests": "Opportunity feeling matter floor again nor but southern."
+    },
+    {
+        "Name": "Lindsey Beard",
+        "Department": "Chemical Engineering",
+        "Designation": "Professor",
+        "Email": "tracyrobinson@martinez.com",
+        "Phone Number": "728.188.8705x867",
+        "Office Number": "Room 290",
+        "Research Interests": "Question minute your determine usually."
+    },
+    {
+        "Name": "Kelly Carson",
+        "Department": "Civil Engineering",
+        "Designation": "Associate Professor",
+        "Email": "kaylahines@greer-harris.biz",
+        "Phone Number": "+1-866-367-2756x05848",
+        "Office Number": "Room 381",
+        "Research Interests": "Night through over choice challenge standard blue both."
+    },
+    {
+        "Name": "Adam Coleman",
+        "Department": "Environmental Engineering",
+        "Designation": "Lecturer",
+        "Email": "ywashington@bentley-baker.biz",
+        "Phone Number": "075.426.1484x128",
+        "Office Number": "Room 447",
+        "Research Interests": "Sister indicate challenge realize large feeling space."
+    },
+    {
+        "Name": "James Ware",
+        "Department": "Computer Science",
+        "Designation": "Assistant Professor",
+        "Email": "brian80@yahoo.com",
+        "Phone Number": "040-413-0957",
+        "Office Number": "Room 315",
+        "Research Interests": "Home wait memory research fear low single ready."
+    },
+    {
+        "Name": "Shawn Jackson",
+        "Department": "Aerospace Engineering",
+        "Designation": "Professor",
+        "Email": "ijimenez@brooks.com",
+        "Phone Number": "+1-996-498-0949x921",
+        "Office Number": "Room 512",
+        "Research Interests": "Base real seat difference quality."
+    },
+    {
+        "Name": "Laura Fisher",
+        "Department": "Mechanical Engineering",
+        "Designation": "Lecturer",
+        "Email": "jasonharrington@hotmail.com",
+        "Phone Number": "+1-210-058-6161x526",
+        "Office Number": "Room 324",
+        "Research Interests": "Benefit particularly wrong maybe of live."
+    },
+    {
+        "Name": "Bradley Hill",
+        "Department": "Aerospace Engineering",
+        "Designation": "Professor",
+        "Email": "wilcoxmary@moss-ryan.com",
+        "Phone Number": "466-903-7755",
+        "Office Number": "Room 554",
+        "Research Interests": "Almost store everything base just himself leader begin."
+    },
+    {
+        "Name": "Alex Porter",
+        "Department": "Chemical Engineering",
+        "Designation": "Professor",
+        "Email": "matthew61@yahoo.com",
+        "Phone Number": "865.946.1135x060",
+        "Office Number": "Room 368",
+        "Research Interests": "Civil meet order Mrs community check."
+    },
+    {
+        "Name": "Megan Jones",
+        "Department": "Civil Engineering",
+        "Designation": "Lecturer",
+        "Email": "stevenburns@moore-cooper.biz",
+        "Phone Number": "+1-340-761-2634",
+        "Office Number": "Room 327",
+        "Research Interests": "Other he her course."
+    },
+    {
+        "Name": "Rodney Hurst",
+        "Department": "Biomedical Engineering",
+        "Designation": "Researcher",
+        "Email": "hessjorge@mason-drake.com",
+        "Phone Number": "(090)418-2359",
+        "Office Number": "Room 378",
+        "Research Interests": "Federal friend ten again."
+    },
+    {
+        "Name": "Amanda Palmer",
+        "Department": "Biomedical Engineering",
+        "Designation": "Lecturer",
+        "Email": "jamieross@hotmail.com",
+        "Phone Number": "001-229-203-9774x4300",
+        "Office Number": "Room 584",
+        "Research Interests": "Fast their drug both month."
+    },
+    {
+        "Name": "Fernando Martinez",
+        "Department": "Biomedical Engineering",
+        "Designation": "Researcher",
+        "Email": "zmiller@blevins.biz",
+        "Phone Number": "159.181.8016",
+        "Office Number": "Room 252",
+        "Research Interests": "Clearly personal would television."
+    },
+    {
+        "Name": "Jeremy Hinton",
+        "Department": "Mechanical Engineering",
+        "Designation": "Researcher",
+        "Email": "ericastewart@hotmail.com",
+        "Phone Number": "+1-575-326-9586",
+        "Office Number": "Room 556",
+        "Research Interests": "Example with trial trip occur."
+    },
+    {
+        "Name": "Robert Bishop",
+        "Department": "Environmental Engineering",
+        "Designation": "Associate Professor",
+        "Email": "wellsanna@dixon.com",
+        "Phone Number": "(003)837-8542",
+        "Office Number": "Room 473",
+        "Research Interests": "Modern several much keep commercial local."
+    },
+    {
+        "Name": "Terri Freeman",
+        "Department": "Chemical Engineering",
+        "Designation": "Associate Professor",
+        "Email": "arandall@roberts.com",
+        "Phone Number": "501.477.5546",
+        "Office Number": "Room 314",
+        "Research Interests": "Impact too society water."
+    },
+    {
+        "Name": "Gina Carlson",
+        "Department": "Electrical Engineering",
+        "Designation": "Lecturer",
+        "Email": "jared41@sheppard-kemp.biz",
+        "Phone Number": "164.436.4872x965",
+        "Office Number": "Room 366",
+        "Research Interests": "Dream myself night sometimes campaign."
+    },
+    {
+        "Name": "Patricia Johnson",
+        "Department": "Biomedical Engineering",
+        "Designation": "Researcher",
+        "Email": "bblevins@hotmail.com",
+        "Phone Number": "587-810-1664x243",
+        "Office Number": "Room 530",
+        "Research Interests": "Anything war go way manage line."
+    },
+    {
+        "Name": "James Valenzuela",
+        "Department": "Mechanical Engineering",
+        "Designation": "Associate Professor",
+        "Email": "thomasgary@yahoo.com",
+        "Phone Number": "(156)118-8820x851",
+        "Office Number": "Room 241",
+        "Research Interests": "Mention hit feel born room police."
+    },
+    {
+        "Name": "Dr. William Gardner",
+        "Department": "Civil Engineering",
+        "Designation": "Researcher",
+        "Email": "tonyelliott@yahoo.com",
+        "Phone Number": "793-816-1266x710",
+        "Office Number": "Room 580",
+        "Research Interests": "Here help opportunity field."
+    },
+    {
+        "Name": "Timothy Lawrence",
+        "Department": "Electrical Engineering",
+        "Designation": "Professor",
+        "Email": "randysmith@gmail.com",
+        "Phone Number": "056.040.1447",
+        "Office Number": "Room 320",
+        "Research Interests": "Write task magazine now."
+    },
+    {
+        "Name": "Jackie Young",
+        "Department": "Aerospace Engineering",
+        "Designation": "Researcher",
+        "Email": "vthompson@yahoo.com",
+        "Phone Number": "395.873.7297x54267",
+        "Office Number": "Room 203",
+        "Research Interests": "Those leave increase physical recognize himself ball."
+    },
+    {
+        "Name": "Barbara Decker",
+        "Department": "Biomedical Engineering",
+        "Designation": "Associate Professor",
+        "Email": "jasoncastro@wyatt-hoffman.com",
+        "Phone Number": "(989)650-7832x9630",
+        "Office Number": "Room 506",
+        "Research Interests": "Toward office fish water serve resource professor."
+    },
+    {
+        "Name": "Raymond Morrison",
+        "Department": "Computer Science",
+        "Designation": "Assistant Professor",
+        "Email": "richardcuevas@frost.com",
+        "Phone Number": "+1-451-406-0478x384",
+        "Office Number": "Room 234",
+        "Research Interests": "Bit within century next relate huge wait."
+    },
+    {
+        "Name": "Robert Mendoza",
+        "Department": "Civil Engineering",
+        "Designation": "Professor",
+        "Email": "rodgerssarah@humphrey.org",
+        "Phone Number": "229-449-1576x3110",
+        "Office Number": "Room 233",
+        "Research Interests": "Strategy learn research everyone everyone enter."
+    },
+    {
+        "Name": "Anita Pratt",
+        "Department": "Aerospace Engineering",
+        "Designation": "Professor",
+        "Email": "whenderson@hotmail.com",
+        "Phone Number": "001-201-354-2315x63607",
+        "Office Number": "Room 495",
+        "Research Interests": "Political important example technology."
+    },
+    {
+        "Name": "Anna Kim",
+        "Department": "Aerospace Engineering",
+        "Designation": "Lecturer",
+        "Email": "erica44@hernandez.net",
+        "Phone Number": "124-169-9911x563",
+        "Office Number": "Room 189",
+        "Research Interests": "Sound forward firm able traditional article."
+    },
+    {
+        "Name": "Richard Shepherd",
+        "Department": "Electrical Engineering",
+        "Designation": "Researcher",
+        "Email": "ffranklin@yahoo.com",
+        "Phone Number": "268-525-7486x082",
+        "Office Number": "Room 567",
+        "Research Interests": "Expect dinner image threat opportunity."
+    },
+    {
+        "Name": "Dr. Kevin Harris",
+        "Department": "Chemical Engineering",
+        "Designation": "Assistant Professor",
+        "Email": "destinyfoster@hotmail.com",
+        "Phone Number": "558-180-7209",
+        "Office Number": "Room 491",
+        "Research Interests": "Method save family beyond."
+    },
+    {
+        "Name": "Thomas Taylor",
+        "Department": "Computer Science",
+        "Designation": "Professor",
+        "Email": "charles56@yahoo.com",
+        "Phone Number": "001-372-618-1083",
+        "Office Number": "Room 229",
+        "Research Interests": "Make certain base western investment single score."
+    },
+    {
+        "Name": "Timothy White",
+        "Department": "Environmental Engineering",
+        "Designation": "Professor",
+        "Email": "mary74@leach.net",
+        "Phone Number": "(420)025-1186x681",
+        "Office Number": "Room 126",
+        "Research Interests": "Travel fact deal shoulder born realize later."
+    },
+    {
+        "Name": "Andrew Howe",
+        "Department": "Computer Science",
+        "Designation": "Lecturer",
+        "Email": "daymichael@gmail.com",
+        "Phone Number": "944.861.7211",
+        "Office Number": "Room 433",
+        "Research Interests": "Quickly politics authority morning road."
+    },
+    {
+        "Name": "Timothy Lowe",
+        "Department": "Chemical Engineering",
+        "Designation": "Associate Professor",
+        "Email": "lauren80@yahoo.com",
+        "Phone Number": "075-507-0370x82372",
+        "Office Number": "Room 184",
+        "Research Interests": "Few simple role part choose."
+    },
+    {
+        "Name": "Stephanie Reese",
+        "Department": "Electrical Engineering",
+        "Designation": "Researcher",
+        "Email": "fhunt@gmail.com",
+        "Phone Number": "(255)286-5452x06255",
+        "Office Number": "Room 480",
+        "Research Interests": "State reflect ready after light wall fear."
+    },
+    {
+        "Name": "Nancy Moreno",
+        "Department": "Civil Engineering",
+        "Designation": "Lecturer",
+        "Email": "davilalauren@hotmail.com",
+        "Phone Number": "385.688.5823x1392",
+        "Office Number": "Room 251",
+        "Research Interests": "Question start authority painting responsibility marriage owner."
+    },
+    {
+        "Name": "Andrew Moreno",
+        "Department": "Environmental Engineering",
+        "Designation": "Professor",
+        "Email": "lwilson@yahoo.com",
+        "Phone Number": "(292)037-1766x0564",
+        "Office Number": "Room 373",
+        "Research Interests": "Again open section question image stop performance senior."
+    },
+    {
+        "Name": "Raven Coleman",
+        "Department": "Electrical Engineering",
+        "Designation": "Associate Professor",
+        "Email": "heathercoleman@yahoo.com",
+        "Phone Number": "113.818.4659x4980",
+        "Office Number": "Room 534",
+        "Research Interests": "Tonight trial might their wonder simple apply."
+    },
+    {
+        "Name": "Charles Hall",
+        "Department": "Chemical Engineering",
+        "Designation": "Researcher",
+        "Email": "longcharles@gmail.com",
+        "Phone Number": "(136)638-8894",
+        "Office Number": "Room 302",
+        "Research Interests": "Charge dream American firm baby stuff."
+    },
+    {
+        "Name": "Kevin Mcguire",
+        "Department": "Chemical Engineering",
+        "Designation": "Associate Professor",
+        "Email": "armstrongscott@bryan.org",
+        "Phone Number": "241.959.2378x040",
+        "Office Number": "Room 599",
+        "Research Interests": "Minute pay find shoulder."
+    },
+    {
+        "Name": "Vanessa Ramirez",
+        "Department": "Mechanical Engineering",
+        "Designation": "Researcher",
+        "Email": "melissashelton@kelly-hart.org",
+        "Phone Number": "+1-320-159-6238x404",
+        "Office Number": "Room 367",
+        "Research Interests": "Majority design claim walk officer at."
+    },
+    {
+        "Name": "Alyssa Andrade",
+        "Department": "Mechanical Engineering",
+        "Designation": "Lecturer",
+        "Email": "ashleybrown@yahoo.com",
+        "Phone Number": "371-393-2075x860",
+        "Office Number": "Room 128",
+        "Research Interests": "Doctor speak fish sometimes."
+    },
+    {
+        "Name": "Stephen Rosales",
+        "Department": "Biomedical Engineering",
+        "Designation": "Researcher",
+        "Email": "gwalker@tanner.net",
+        "Phone Number": "+1-910-048-1554",
+        "Office Number": "Room 263",
+        "Research Interests": "Week former develop exactly."
+    },
+    {
+        "Name": "John Jarvis",
+        "Department": "Biomedical Engineering",
+        "Designation": "Professor",
+        "Email": "griffinthomas@hotmail.com",
+        "Phone Number": "408-075-4182x40682",
+        "Office Number": "Room 382",
+        "Research Interests": "Join recognize need need everybody network."
+    },
+    {
+        "Name": "Sherri Mcdonald",
+        "Department": "Chemical Engineering",
+        "Designation": "Professor",
+        "Email": "hernandezbrianna@hotmail.com",
+        "Phone Number": "267.244.5941",
+        "Office Number": "Room 201",
+        "Research Interests": "Might the bit yard affect."
+    },
+    {
+        "Name": "Christopher Chandler",
+        "Department": "Civil Engineering",
+        "Designation": "Professor",
+        "Email": "markwhite@collins.com",
+        "Phone Number": "659-044-0334x374",
+        "Office Number": "Room 102",
+        "Research Interests": "Sell lot claim nearly able describe."
+    },
+    {
+        "Name": "Shawn Lee",
+        "Department": "Electrical Engineering",
+        "Designation": "Lecturer",
+        "Email": "chad96@jones-glass.com",
+        "Phone Number": "251.826.8414x018",
+        "Office Number": "Room 268",
+        "Research Interests": "Sign seem political kid contain poor."
+    },
+    {
+        "Name": "Jared Cline",
+        "Department": "Biomedical Engineering",
+        "Designation": "Researcher",
+        "Email": "nwells@gmail.com",
+        "Phone Number": "318.445.1745x62832",
+        "Office Number": "Room 396",
+        "Research Interests": "Indeed film politics suggest."
+    },
+    {
+        "Name": "William Burch",
+        "Department": "Aerospace Engineering",
+        "Designation": "Professor",
+        "Email": "jgray@gmail.com",
+        "Phone Number": "+1-675-280-4990",
+        "Office Number": "Room 574",
+        "Research Interests": "Pressure moment rock take mother."
+    },
+    {
+        "Name": "Michael Jacobs",
+        "Department": "Environmental Engineering",
+        "Designation": "Associate Professor",
+        "Email": "ashleysandoval@yahoo.com",
+        "Phone Number": "129.442.7569x6303",
+        "Office Number": "Room 593",
+        "Research Interests": "Rock majority point sort."
+    }
+]
